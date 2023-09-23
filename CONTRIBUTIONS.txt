@@ -1,0 +1,19 @@
+=================================================
+                 CONTRIBUTIONS
+=================================================
+@author Dade Wood (daw1882@rit.edu)
+@author Wiley Matthews (wsm8855@rit.edu)
+
+rttm.py:
+- Wiley created this program to aid in creating rttm files that contain the diarization labels.
+
+mixture.py:
+- Wiley created this program to allow for generating mixed audio files from individual .wav or .flac files.
+- Dade cleaned up the code and made small fixes to Mixture class.
+
+dataset.py:
+- Dade created this program for generating diarization datasets using mixture.py that contain the mixtures, corresponding rttm files, and metadata for the dataset.
+
+dataset_evaluation.ipynb:
+- Dade created this notebook for evaluating hugging_face's diarization pipeline using our datasets.
+- Wiley added documentation and instructions to the code.

@@ -1,0 +1,324 @@
+[
+    {
+        "sample_fn": "sample_0",
+        "segments": [
+            {
+                "position_ms": 0,
+                "duration_ms": 2500,
+                "num_speakers": 1,
+                "speakers_and_sexes": [
+                    "2436_M"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\2436\\2476\\2436-2476-0019.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            },
+            {
+                "position_ms": 2500,
+                "duration_ms": 2500,
+                "num_speakers": 2,
+                "speakers_and_sexes": [
+                    "2436_M",
+                    "2843_M"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\2436\\2476\\2436-2476-0021.flac",
+                    ".\\LibriSpeech\\data\\2843\\152918\\2843-152918-0034.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            }
+        ]
+    },
+    {
+        "sample_fn": "sample_1",
+        "segments": [
+            {
+                "position_ms": 0,
+                "duration_ms": 2500,
+                "num_speakers": 2,
+                "speakers_and_sexes": [
+                    "1363_F",
+                    "32_F"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\1363\\139304\\1363-139304-0001.flac",
+                    ".\\LibriSpeech\\data\\3242\\67168\\3242-67168-0035.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            },
+            {
+                "position_ms": 2500,
+                "duration_ms": 2500,
+                "num_speakers": 1,
+                "speakers_and_sexes": [
+                    "32_F"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\32\\21631\\32-21631-0014.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            }
+        ]
+    },
+    {
+        "sample_fn": "sample_2",
+        "segments": [
+            {
+                "position_ms": 0,
+                "duration_ms": 2500,
+                "num_speakers": 1,
+                "speakers_and_sexes": [
+                    "4992_F"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\4992\\41797\\4992-41797-0012.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            },
+            {
+                "position_ms": 2500,
+                "duration_ms": 2500,
+                "num_speakers": 1,
+                "speakers_and_sexes": [
+                    "2843_M"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\2843\\152918\\2843-152918-0002.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            }
+        ]
+    },
+    {
+        "sample_fn": "sample_3",
+        "segments": [
+            {
+                "position_ms": 0,
+                "duration_ms": 2500,
+                "num_speakers": 2,
+                "speakers_and_sexes": [
+                    "2843_M",
+                    "1363_F"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\2843\\152918\\2843-152918-0087.flac",
+                    ".\\LibriSpeech\\data\\1363\\135842\\1363-135842-0014.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            },
+            {
+                "position_ms": 2500,
+                "duration_ms": 2500,
+                "num_speakers": 1,
+                "speakers_and_sexes": [
+                    "1363_F"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\1363\\135842\\1363-135842-0030.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            }
+        ]
+    },
+    {
+        "sample_fn": "sample_4",
+        "segments": [
+            {
+                "position_ms": 0,
+                "duration_ms": 2500,
+                "num_speakers": 2,
+                "speakers_and_sexes": [
+                    "2843_M",
+                    "32_F"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\2843\\152918\\2843-152918-0016.flac",
+                    ".\\LibriSpeech\\data\\3214\\167607\\3214-167607-0004.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            },
+            {
+                "position_ms": 2500,
+                "duration_ms": 2500,
+                "num_speakers": 1,
+                "speakers_and_sexes": [
+                    "2843_M"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\2843\\152918\\2843-152918-0035.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            }
+        ]
+    },
+    {
+        "sample_fn": "sample_5",
+        "segments": [
+            {
+                "position_ms": 0,
+                "duration_ms": 2500,
+                "num_speakers": 2,
+                "speakers_and_sexes": [
+                    "32_F",
+                    "2843_M"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\3240\\131231\\3240-131231-0046.flac",
+                    ".\\LibriSpeech\\data\\2843\\152918\\2843-152918-0030.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            },
+            {
+                "position_ms": 2500,
+                "duration_ms": 2500,
+                "num_speakers": 1,
+                "speakers_and_sexes": [
+                    "32_F"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\3240\\131231\\3240-131231-0030.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            }
+        ]
+    },
+    {
+        "sample_fn": "sample_6",
+        "segments": [
+            {
+                "position_ms": 0,
+                "duration_ms": 2500,
+                "num_speakers": 1,
+                "speakers_and_sexes": [
+                    "2436_M"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\2436\\2481\\2436-2481-0011.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            },
+            {
+                "position_ms": 2500,
+                "duration_ms": 2500,
+                "num_speakers": 1,
+                "speakers_and_sexes": [
+                    "4992_F"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\4992\\41806\\4992-41806-0009.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            }
+        ]
+    },
+    {
+        "sample_fn": "sample_7",
+        "segments": [
+            {
+                "position_ms": 0,
+                "duration_ms": 2500,
+                "num_speakers": 2,
+                "speakers_and_sexes": [
+                    "4992_F",
+                    "2843_M"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\4992\\41806\\4992-41806-0011.flac",
+                    ".\\LibriSpeech\\data\\2843\\152918\\2843-152918-0065.flac"
+                ],
+                "noise_present": true,
+                "noise_fn": ".\\musan\\noise\\free-sound\\noise-free-sound-0676.wav"
+            },
+            {
+                "position_ms": 2500,
+                "duration_ms": 2500,
+                "num_speakers": 2,
+                "speakers_and_sexes": [
+                    "2843_M",
+                    "4992_F"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\2843\\152918\\2843-152918-0026.flac",
+                    ".\\LibriSpeech\\data\\4992\\23283\\4992-23283-0000.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            }
+        ]
+    },
+    {
+        "sample_fn": "sample_8",
+        "segments": [
+            {
+                "position_ms": 0,
+                "duration_ms": 2500,
+                "num_speakers": 1,
+                "speakers_and_sexes": [
+                    "1363_F"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\1363\\135842\\1363-135842-0020.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            },
+            {
+                "position_ms": 2500,
+                "duration_ms": 2500,
+                "num_speakers": 0,
+                "speakers_and_sexes": [],
+                "speaker_fns": [],
+                "noise_present": false,
+                "noise_fn": null
+            }
+        ]
+    },
+    {
+        "sample_fn": "sample_9",
+        "segments": [
+            {
+                "position_ms": 0,
+                "duration_ms": 2500,
+                "num_speakers": 1,
+                "speakers_and_sexes": [
+                    "2843_M"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\2843\\152918\\2843-152918-0049.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            },
+            {
+                "position_ms": 2500,
+                "duration_ms": 2500,
+                "num_speakers": 2,
+                "speakers_and_sexes": [
+                    "32_F",
+                    "2843_M"
+                ],
+                "speaker_fns": [
+                    ".\\LibriSpeech\\data\\3214\\167606\\3214-167606-0034.flac",
+                    ".\\LibriSpeech\\data\\2843\\152918\\2843-152918-0002.flac"
+                ],
+                "noise_present": false,
+                "noise_fn": null
+            }
+        ]
+    }
+]
